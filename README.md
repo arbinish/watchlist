@@ -1,4 +1,4 @@
-flask
+watchlist
 =====
 
-flask + sqlalchemy example
+A flask + sqlalchemy + flask-restless example
